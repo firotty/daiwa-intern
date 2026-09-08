@@ -1,0 +1,15 @@
+# 環境変数・秘密情報
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# エディタ
+.vscode/
+.idea/
+
+# ログ・一時ファイル
+*.log
+tmp/
